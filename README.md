@@ -1,4 +1,9 @@
 # Number-Sign-Interpretor
+# Artificial-Intelligence
+# sign-language-interpretor-cnn
+
+This is an Artificial intelligence project based on CNN which predicts the number sign languages through gesture.
+
 
 1. First run the "collectdata.ipynb" file
 2. Then train the model by running "sign_train.ipynb" file
